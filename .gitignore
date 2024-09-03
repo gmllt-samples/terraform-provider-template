@@ -1,0 +1,50 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+terraform-provider-template
+
+# Build directories and artifacts
+/build
+/bin
+/dist
+release/
+
+# Output of 'go test'
+*.out
+*.test
+
+# Go workspace file
+go.work
+
+# Logs
+*.log
+
+# Dependency directories (Go Modules)
+vendor/
+.Gopath/
+
+# Environment files
+.env
+
+# IDE/editor configurations
+.vscode/
+.idea/
+*.swp
+*~
+
+# Generated files
+*.coverprofile
+*.cgo
+*.o
+*.a
+
+# Generated configuration by Terraform
+.terraform/
+.terraform.lock.hcl
+
+# Goreleaser files
+dist/
+release/
