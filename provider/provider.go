@@ -1,9 +1,9 @@
 package provider
 
 import (
-	"github.com/gmllt/terraform-provider-template/client"
-	datasources2 "github.com/gmllt/terraform-provider-template/datasources"
-	resources2 "github.com/gmllt/terraform-provider-template/resources"
+	"github.com/gmllt-samples/terraform-provider-template/client"
+	datasources2 "github.com/gmllt-samples/terraform-provider-template/datasources"
+	resources2 "github.com/gmllt-samples/terraform-provider-template/resources"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 )
 

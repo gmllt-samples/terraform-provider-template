@@ -1,7 +1,7 @@
 package client_test
 
 import (
-	"github.com/gmllt/terraform-provider-template/client"
+	"github.com/gmllt-samples/terraform-provider-template/client"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

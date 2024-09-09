@@ -2,10 +2,10 @@ package datasources_test
 
 import (
 	"fmt"
-	"github.com/gmllt/terraform-provider-template/client"
+	"github.com/gmllt-samples/terraform-provider-template/client"
 	"testing"
 
-	"github.com/gmllt/terraform-provider-template/provider"
+	"github.com/gmllt-samples/terraform-provider-template/provider"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/resource"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/terraform"

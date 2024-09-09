@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/gmllt/terraform-provider-template/provider"
+	"github.com/gmllt-samples/terraform-provider-template/provider"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
 )
 

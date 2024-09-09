@@ -3,7 +3,7 @@ package resources
 import (
 	"context"
 	"fmt"
-	"github.com/gmllt/terraform-provider-template/client"
+	"github.com/gmllt-samples/terraform-provider-template/client"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/diag"
 
 	"github.com/hashicorp/terraform-plugin-log/tflog"

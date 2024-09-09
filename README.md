@@ -16,7 +16,7 @@ The `terraform-provider-template` is a Terraform provider that allows you to man
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/gmllt/terraform-provider-template.git
+git clone https://github.com/gmllt-samples/terraform-provider-template.git
 cd terraform-provider-template
 go mod tidy
 ```

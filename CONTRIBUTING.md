@@ -6,7 +6,7 @@ Thank you for your interest in contributing to terraform-provider-template! We w
 
 ### Reporting a Bug
 
-If you encounter a bug, please open a [GitHub issue](https://github.com/gmllt/terraform-provider-template/issues) and provide as much detail as possible. Include the following information:
+If you encounter a bug, please open a [GitHub issue](https://github.com/gmllt-samples/terraform-provider-template/issues) and provide as much detail as possible. Include the following information:
 
 - **Problem Description**: Explain what is not working as expected.
 - **Steps to Reproduce**: Provide the steps needed to reproduce the bug.
@@ -15,7 +15,7 @@ If you encounter a bug, please open a [GitHub issue](https://github.com/gmllt/te
 
 ### Suggesting an Enhancement or New Feature
 
-We are always open to new ideas! To suggest a feature or enhancement, please open a [GitHub issue](https://github.com/gmllt/terraform-provider-template/issues) with the following details:
+We are always open to new ideas! To suggest a feature or enhancement, please open a [GitHub issue](https://github.com/gmllt-samples/terraform-provider-template/issues) with the following details:
 
 - **Description**: Detail the idea or enhancement you are proposing.
 - **Motivation**: Explain why this feature would be useful.

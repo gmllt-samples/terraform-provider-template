@@ -3,7 +3,7 @@ package provider_test
 import (
 	"testing"
 
-	"github.com/gmllt/terraform-provider-template/provider"
+	"github.com/gmllt-samples/terraform-provider-template/provider"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 	"github.com/stretchr/testify/assert"
 )

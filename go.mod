@@ -1,4 +1,4 @@
-module github.com/gmllt/terraform-provider-template
+module github.com/gmllt-samples/terraform-provider-template
 
 go 1.23
 
